@@ -12,4 +12,3 @@ Exibição de imagens retiradas do jogo No Man’s Sky para ilustrar cada etapa 
 🎮 Recursos visuais
 Todas as imagens e vídeos utilizados no site foram extraídos diretamente do jogo No Man's Sky, servindo como base para a criação de um ambiente visual imersivo e temático.
 
-📁 Acesso ao projeto
