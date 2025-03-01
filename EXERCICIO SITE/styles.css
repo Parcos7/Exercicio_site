@@ -1,0 +1,103 @@
+body {
+    background: url('imagens/estrelas.jpg') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    max-width: 900px;
+    text-align: center;
+}
+
+section {
+    padding: 40px 20px;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #FFD700;
+    text-shadow: 2px 2px 5px rgba(255, 215, 0, 0.8);
+}
+
+h2 {
+    font-size: 28px;
+    color: #87CEEB;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    background-color: #FFD700;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+nav ul li a:hover {
+    background: #FFA500;
+}
+
+footer {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 15px;
+    font-size: 14px;
+}
+
+img, video {
+    max-width: 80%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.evento {
+    border: 2px solid #FFD700;
+    padding: 20px;
+}
+
+.evento ul {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding: 0;
+}
+
+.evento ul li {
+    list-style: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: black;
+}
