@@ -11,4 +11,3 @@ Uso de áudio e vídeos para complementar o conteúdo sobre os eventos do univer
 Exibição de imagens retiradas do jogo No Man’s Sky para ilustrar cada etapa da formação cósmica
 🎮 Recursos visuais
 Todas as imagens e vídeos utilizados no site foram extraídos diretamente do jogo No Man's Sky, servindo como base para a criação de um ambiente visual imersivo e temático.
-
